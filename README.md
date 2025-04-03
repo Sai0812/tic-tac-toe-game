@@ -39,8 +39,6 @@ Tic-Tac-Toe/
 - **CSS3** for styling the interface
 - **JavaScript (Vanilla JS)** for game logic
 
-## 📷 Screenshots
-![Tic-Tac-Toe Preview](screenshot.png) *(Add a screenshot if needed)*
 
 ## 📌 How to Play
 1. The game starts with player **O** by default.
